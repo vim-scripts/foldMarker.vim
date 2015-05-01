@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5166
+
+foldMarker.vim defines a new command `:FoldMarker`, which can accpet six arguments to creat fold marker and adjust fold level.
+
+*   `l`: creat a pair of fold markers under cursor `Line`
+*   `a`: creat a pair of fold markers `Above` fold area
+*   `b`: creat a pair of fold markers `Below` fold area
+*   `s`: creat a pair of fold markers `Surrounding` Visual area
+*   `c`: `Creat` fold level
+*   `d`: `Delete` fold level
+
+Download the plugin from GitHub Repository:
+
+https://github.com/Bozar/foldMarker
